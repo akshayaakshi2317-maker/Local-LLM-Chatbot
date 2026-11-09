@@ -133,5 +133,3 @@ When a user sends a message:
 This project demonstrates how to build a simple local AI chatbot using Ollama and LangChain. By incorporating conversational memory, the chatbot can understand previous interactions and provide more relevant responses without depending on external LLM APIs.
 
 ---
-
-**Developed using Python, Ollama, Gemma 3:1B, LangChain, and Streamlit.**
